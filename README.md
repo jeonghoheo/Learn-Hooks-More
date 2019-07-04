@@ -2,3 +2,5 @@
 
 - [x] useContext in Action
 - [x] Recap and Improvements
+- [x] Vuilding Hypertranslate
+- [x] Understanding useReducer
